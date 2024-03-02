@@ -9,7 +9,8 @@ This is a **Acid Rain Game** produced as an object-oriented language 2 final pro
 ## 🔨 Program Architecture
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/a13805c7-b0f8-4440-8b65-68cb48aaf957" width="500" height="400"> <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/66c806e0-0687-4b48-ba67-7b8b37d78679" width="500" height="400">
 
-### 🎮 Starting Screen
+## 🎮 Game Screen
+### 🐈 Starting Screen
 #### 메인 화면
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/82407bc9-0aec-490f-8e58-a075a3a379e1" width="500" height="300" ><br>
 오디오 제어, 게임 시작, 랭킹 확인, 단어 추가 중 사용자가 원하는 메뉴를 선택할 수 있다.
@@ -33,7 +34,7 @@ This is a **Acid Rain Game** produced as an object-oriented language 2 final pro
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/4e02511d-5094-41a7-a48f-9b5a83267964" width="500" height="300"><br>
 사용자가 세개의 알 중 키우고 싶은 알을 하나 선택하면 본게임 화면으로 넘어간다.
 
-### 🎮 Game Screen 
+### 🐈 Game Playing Screen 
 #### 스테이지 1
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/478f95cb-35de-4641-ab72-8cb23b1f7c05" width="500" height="300"><br>
 🍏 : 5점 증가 <br>
