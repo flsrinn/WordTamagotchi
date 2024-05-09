@@ -9,7 +9,7 @@ This is a **Acid Rain Game** produced as an object-oriented language 2 final pro
 ## 🔨 Program Architecture
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/a13805c7-b0f8-4440-8b65-68cb48aaf957" width="500" height="400"> <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/66c806e0-0687-4b48-ba67-7b8b37d78679" width="500" height="400">
 
-## 🎮 Game Screen
+## 🎮 Game Description 
 ### 🐈 Starting Screen
 #### 메인 화면
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/82407bc9-0aec-490f-8e58-a075a3a379e1" width="500" height="300" ><br>
