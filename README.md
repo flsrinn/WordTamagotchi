@@ -13,7 +13,26 @@ This is a **Acid Rain Game** produced as an object-oriented language 2 final pro
 ### 🐈 Starting Screen
 #### 메인 화면
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/82407bc9-0aec-490f-8e58-a075a3a379e1" width="500" height="300" ><br>
-오디오 제어, 게임 시작, 랭킹 확인, 단어 추는 추가되지 않음)
+오디오 제어, 게임 시작, 랭킹 확인, 단어 추가를 할 수 있다. 
+#### 랭킹 화면
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/4da69fce-f49e-427b-98ac-0f55269df6f1" width="500" height="300" ><br>
+각 레벨별 TOP 5를 확인할 수 있다. 
+
+#### 단어 추가 
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/b938b8f1-8e98-4f3b-a3aa-366e212977b5" height="300" ><br>
+단어장에 단어를 추가할 수 있다. <br>
+이미 존재하는 단어일 경우 추가하지 않는다. 
+
+#### 게임 시작
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/0215a754-c60a-496f-af2b-8b6b582cfab8" height="300" >
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/2c70e64e-f297-4910-8a11-5430278b395e" height="300" > <br>
+이름이나 레벨 중 하나라도 입력하지 않으면 게임을 시작할 수 없다. <br> 
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/e977fea5-679c-467e-8f08-29ccad57efbd" height="300" ><br>
+이름을 입력하고, 레벨을 선택하면 게임을 시작할 수 있다. 
+
+### 🐈 Game Screen
+#### 스테이지 1
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/f8bbed34-2c14-44c5-a647-a926e6a251df" width="500" height="300" ><br>
 0.5초 간격으로 단어가 떨어진다. 쉬움 단계일 경우 단어가 2.5초 간격으로 생성되고 어려움 단계일 경우 단어가 2.2초 간격으로 생성된다.<br> 
 스테이지 1에서는 생명 3개가 주어진다. 오른쪽에 있는 pause 버튼을 누르면 게임이 중단되고 play 버튼을 누르면 다시 시작된다.<br>
 스테이지 1에서는 점수가 올라갈 경우 알이 좌우로 움직이고, 100점에 도달할 경우 다음 스테이지로 넘어갈 수 있다. 
@@ -24,9 +43,9 @@ This is a **Acid Rain Game** produced as an object-oriented language 2 final pro
 다음 스테이지로 넘어갈 수 있는 버튼이 나온다.<br>
 #### 스테이지 2
 <img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/f5d24526-199c-49d6-8b50-864e67303359" width="500" height="300"><br>
-<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/e6d1baca-130e-4a75-981e-e124fa91fb69" width="500" height="300"><img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/8a43c349-db0d-48cb-94a6-1f4469143a9a" width="500" height="300"><br>
 0.4초 간격으로 단어가 떨어진다. 쉬움 단계일 경우 단어가 2.35초 간격으로 생성되고 어려움 단계일 경우 단어가 2초 간격으로 생성된다. <br>
 스테이지 2에서는 생명 4개가 주어진다.<br>
+<img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/e6d1baca-130e-4a75-981e-e124fa91fb69" width="500" height="300"><img src="https://github.com/flsrinn/WordTamagotchi/assets/123474937/8a43c349-db0d-48cb-94a6-1f4469143a9a" width="500" height="300"><br>
 스테이지 2부터 생명이 깎일 경우 몬스터가 눈물을 흘리고, 점수를 얻을 경우에는 몬스터가 웃으며 상하로 움직인다. <br>
 250점에 도달할 경우 다음 스테이지로 넘어갈 수 있다. 
 #### 스테이지 3
